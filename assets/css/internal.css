@@ -12,10 +12,14 @@
 .s-wrapper .s-left-column {
   width: 100px;
   height: 100%;
-  background-color: #000000;
   display: flex;
   justify-content: center;
   align-items: center;
+  position: fixed;
+  padding-right: 50px;
+  left: 0;
+  top: 0;
+  z-index: 1;
 }
 
 .s-wrapper .s-main-content {
@@ -23,5 +27,40 @@
   width: 100%;
   background-color: gray;
   padding-left: 30px;
+  padding-left: 100px;
 }
 
+.s-wrapper .s-main-content__top {
+  height: 80vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  background-color: #b4cbcb;
+}
+
+.s-wrapper .s-main-content__botton {
+  height: 20vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #a786e3;
+}
+
+.s-wrapper .s-main-content .s-logo img{
+  margin-top: 50px;
+  margin-left: 0;
+  margin-bottom: 30px;
+  
+}
+
+.pills ul li {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 5px 15px;
+  border-radius: 20px;
+  text-decoration: underline;
+}
+
+.pills ul li:first-child{
+  margin-left: 0;
+}
