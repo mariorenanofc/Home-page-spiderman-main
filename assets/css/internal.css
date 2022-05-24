@@ -5,6 +5,7 @@
 @import url('components/_link-button.css');
 @import url('components/_gallery.css');
 
+
 .s-wrapper {
   display: flex;
   height: 100vh;
@@ -15,6 +16,7 @@
 .s-wrapper video{
   position: fixed;
   width: 100%;
+  position: absolute;
 }
 
 .s-wrapper .s-left-column {

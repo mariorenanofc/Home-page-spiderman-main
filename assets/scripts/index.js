@@ -21,3 +21,11 @@ function addEventListenersToCards(){
 
 document.addEventListener("DOMContentLoaded", addEventListenersToCards, false);
 
+function selectCarouselItem(selectedButtonElement) {
+  const selectedItem = selectedButtonElement.id;
+  const carousel = document.querySelector('.s-cards-carousel');
+  const transform = carousel.style.transform;
+  const rotateY  = transform.match(/rotateY\((-?\d+deg)\)/i);
+  const rotateYDeg = -120  * (Number(selectedItem) - 1);
+  
+}
