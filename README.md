@@ -29,15 +29,7 @@ Just below it contains a clickable button with the official trailer of the film.
 
 # spider-man-II
 
-d
-d
-d
-d
-d
-d
-d
-d
-d
+In Spiderman II, you will come across a web with a video background without sound, just like page 1, but the movie description content, year of release, director and background images page will be different. Well, we're talking about the second movie where actor Tom Holland is the one who steals the show in the second movie. Even interactive content such as trailer, and linkable images with video are filled with Spider Man II content.
 
 # spider-man-III
 
