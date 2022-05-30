@@ -1,6 +1,6 @@
 <h1>Live Spider-Man Multiversos</h1>
 
-> Status: Developing ⚙️
+<h4 align="center">🚧 Status: Developing 🚧</h4>
 
 ### This is a project to develop a webpage for the Spider-Man films, with three films selected.
 
@@ -8,7 +8,6 @@
 
 
 * [Description](#Description)
-* [Introduction](#Introduction)
 * [Spider Man I](#spider-man-I)
 * [Spider Man II](#spider-man-II)
 * [Spider Man III](#spider-man-III)
@@ -77,3 +76,6 @@ a
   </tr>
   
 </table>
+
+
+
