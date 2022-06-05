@@ -16,7 +16,7 @@
 .s-wrapper video{
   position: fixed;
   width: 100%;
-  position: absolute;
+  position: fixed;
 }
 
 .s-wrapper .s-left-column {
