@@ -29,41 +29,17 @@ Just below it contains a clickable button with the official trailer of the film.
 
 # spider-man-II
 
-In Spiderman II, you will come across a web with a video background without sound, just like page 1, but the movie description content, year of release, director and background images page will be different. Well, we're talking about the second movie where actor Tom Holland is the one who steals the show in the second movie. Even interactive content such as trailer, and linkable images with video are filled with Spider Man II content.
+In Spider-Man II, you will come across the web with a muted video background, just like on page 1, but the content of the movie description, year of release, director, and background image page will be different. Well, we're talking about the second movie where actor Tobey Maguire is impressed with new second movie villains. Even interactive content like trailer and linkable footage with video are filled with content and small scenes from the Spider-Man II movie.
 
 # spider-man-III
 
-e
-e
-e
-e
-e
-e
-e
-e
-e
+In Spiderman III, you will find a web with a muted video background, just like page 1 and 2, but the content of the movie description, year of release and the background image page will be different. Well, we're talking about the third film where actor Tobey Maguire faces new challenges. Even interactive content like trailer and linkable video footage is filled with content and scenes from the Spider-Man III movie.
 
 # Considerations
 
-c
-s
-a
-s
-c
-a
-s
-d
-a
+
 
 # Conclusion
-
-b
-v
-c
-s
-a
-a
-
 
 
 
