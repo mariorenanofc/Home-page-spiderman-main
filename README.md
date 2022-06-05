@@ -37,22 +37,23 @@ Just below it contains a clickable button with the official trailer of the film.
 
 <img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-one.png">
 
-<h2 style="width:120px; background-color: red; border-size:50%;">Movie Two</h2>
-
-<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-two.png">
-
-<h2 style="width:120px; background-color: red; border-size:50%;">Movie Three</h2>
-
-<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-trhee.png">
-
 
 # spider-man-II
 
 In Spider-Man II, you will come across the web with a muted video background, just like on page 1, but the content of the movie description, year of release, director, and background image page will be different. Well, we're talking about the second movie where actor Tobey Maguire is impressed with new second movie villains. Even interactive content like trailer and linkable footage with video are filled with content and small scenes from the Spider-Man II movie.
 
+<h2 style="width:120px; background-color: red; border-size:50%;">Movie Two</h2>
+
+<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-two.png">
+
 # spider-man-III
 
 In Spiderman III, you will find a web with a muted video background, just like page 1 and 2, but the content of the movie description, year of release and the background image page will be different. Well, we're talking about the third film where actor Tobey Maguire faces new challenges. Even interactive content like trailer and linkable video footage is filled with content and scenes from the Spider-Man III movie.
+
+<h2 style="width:120px; background-color: red; border-size:50%;">Movie Three</h2>
+
+<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-trhee.png">
+
 
 # Considerations
 
