@@ -22,6 +22,11 @@
 On the home page you will have the presentation of images with access to each movie, which contains details of each one of them.
 There are several ways to enter the content of each movie, you can access the options above the screen, or also with the cards below with the name of each actor.
 
+
+# Visual image web site
+
+<img src="../../assets/images/director/pider-home-red.png">
+
 # spider-man-I
 
 In Spider-Man I, you will come across a web with a video background without sound, inside that page, it will contain a scroll bar on the left side, next to the scroll bar on your right side, a description of the movie, with the name of the director and year of release.
