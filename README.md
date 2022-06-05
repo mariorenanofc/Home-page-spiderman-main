@@ -33,17 +33,17 @@ There are several ways to enter the content of each movie, you can access the op
 In Spider-Man I, you will come across a web with a video background without sound, inside that page, it will contain a scroll bar on the left side, next to the scroll bar on your right side, a description of the movie, with the name of the director and year of release.
 Just below it contains a clickable button with the official trailer of the film. And below there are three clickable images with scenes from the movie according to each image.
 
-<h2>Movie 1</h2>
+<h2 style="width:120px; background-color: red; border-size:50%;">Movie One</h2>
 
-<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/spider-home.png">
+<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-one.png">
 
-<h2></h2>
+<h2 style="width:120px; background-color: red; border-size:50%;">Movie Two</h2>
 
-<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/spider-home.png">
+<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-two.png">
 
-<h2></h2>
+<h2 style="width:120px; background-color: red; border-size:50%;">Movie Three</h2>
 
-<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/spider-home.png">
+<img width="780" height="350"  src="https://raw.githubusercontent.com/mariorenanofc/Home-page-spiderman-main/master/assets/images/director/movie%20one/movie-trhee.png">
 
 
 # spider-man-II
