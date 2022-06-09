@@ -14,7 +14,7 @@
 }
 
 .s-wrapper video{
-  position: fixed;
+  position: relative;
   width: 100%;
   position: fixed;
 }
